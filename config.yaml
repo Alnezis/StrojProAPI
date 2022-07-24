@@ -1,0 +1,10 @@
+#конфиг битый, если хотите запустить на своей машине, обратитесь за данными от бд в чат команды
+
+port: 1338
+secretkey: odkefofj20hg392k0djfh39
+db:
+  host: "9498"
+  dbname: "hackstrojpro"
+  username: ""
+  port: "5432"
+  password: ""
